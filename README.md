@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 ### 状态统计
 
-[![xiaofan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sneptune-love&show_icons=true&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![xiaofan's GitHub stats](https://github-readme-stats-1-umber-omega.vercel.app/api?username=sneptune-love&show_icons=true&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 语言统计
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sneptune-love&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-1-umber-omega.vercel.app/api/top-langs/?username=sneptune-love&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### 个人网站
 
-[![个人网站](https://github-readme-stats.vercel.app/api/pin/?username=sneptune-love&repo=neptune)](https://sneptune-love.github.io/neptune/#/)
+[![个人网站](https://github-readme-stats-1-umber-omega.vercel.app/api/pin/?username=sneptune-love&repo=neptune)](https://sneptune-love.github.io/neptune/#/)
